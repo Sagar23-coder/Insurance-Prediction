@@ -85,4 +85,4 @@ Deploy as a web app for insurance agents to use interactively.
 Sagar Joshi  
 B.Tech CSE (AI & ML)
 📧 Email: sj471846@gmail.com
-🔗 LinkedIn: linkedin.com/in/sagar-joshi-775b16343
+🔗 LinkedIn: [(www.linkedin.com/in/sagar-joshi-775b15343)]
